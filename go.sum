@@ -1,11 +1,11 @@
 github.com/akavel/rsrc v0.10.2 h1:Zxm8V5eI1hW4gGaYsJQUhxpjkENuG91ki8B4zCrvEsw=
 github.com/akavel/rsrc v0.10.2/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
-github.com/audrius-paskevicius/asticode-go-astikit v0.0.0-20251201104106-0cd745baaeb6 h1:zj2Imo6YZJFfLR81NNI2/WaL6kRFW21OX/lPHQU5VzU=
-github.com/audrius-paskevicius/asticode-go-astikit v0.0.0-20251201104106-0cd745baaeb6/go.mod h1:xSqDZLxMliI/UrY9eI9JIz/WL+lIP7CwuD1hmnSed+o=
-github.com/audrius-paskevicius/asticode-go-astilectron v0.0.0-20251201105159-a8dfcc008bef h1:7GtNldlfMNG+oCD2M4n7KOK5hhcVzzgibOMxCTKZQ9k=
-github.com/audrius-paskevicius/asticode-go-astilectron v0.0.0-20251201105159-a8dfcc008bef/go.mod h1:Uf4syI8wHsLWtG8evQ18zcdc4uLPJeCoGsSKyqiZRRA=
-github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201124217-9f9c63e18ed9 h1:EznVXlPi0gF4cqipTc4HIc8yHbghf9HDKH4kb7d+Stk=
-github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201124217-9f9c63e18ed9/go.mod h1:K9EoUNvjzNDCUYeW5f50E+zOF2dRFs3WfncJEqH4Bc0=
+github.com/audrius-paskevicius/asticode-go-astikit v0.0.0-20251201151259-4df61223fd76 h1:T4t2ut178M/sfcphWDw6WWww6hqdczcVUT63+am88dU=
+github.com/audrius-paskevicius/asticode-go-astikit v0.0.0-20251201151259-4df61223fd76/go.mod h1:SuwW7MPSWAVC/3pvJRxaM4WZfuNwZGfZsp4lK4+QIpw=
+github.com/audrius-paskevicius/asticode-go-astilectron v0.0.0-20251201152144-315d41e2fe48 h1:GREDOBHtWOHSW31e9T/5yBa5FZoMal63iWNbW8stlBQ=
+github.com/audrius-paskevicius/asticode-go-astilectron v0.0.0-20251201152144-315d41e2fe48/go.mod h1:pwK5/Wy3bZUCJ5EwAeMC3fhf5zBMOsYvK9JK7L+HXnI=
+github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201145730-dc51cd227514 h1:JXj0RWsrTB0dzx1Ci9b014cbjR1HVir+5Ci6NcG8T+I=
+github.com/audrius-paskevicius/asticode-go-astilectron-bundler v0.0.0-20251201145730-dc51cd227514/go.mod h1:K9EoUNvjzNDCUYeW5f50E+zOF2dRFs3WfncJEqH4Bc0=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

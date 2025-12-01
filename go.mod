@@ -12,5 +12,3 @@ require (
 	github.com/akavel/rsrc v0.10.2 // indirect
 	github.com/sam-kamerer/go-plister v1.2.0 // indirect
 )
-
-
